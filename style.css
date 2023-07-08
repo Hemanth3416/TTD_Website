@@ -1,0 +1,231 @@
+body{
+    background-image:url("15740653_AGED_PAPER.jpg");
+}
+.div1{
+    background-color:rgb(254, 21, 21) ;
+    width: 96%;
+
+}
+#fn{
+    animation: flashnews 5s alternate infinite linear;
+}
+@keyframes flashnews {
+    0%{
+        font-color: blue;
+    }
+    20%{
+        font-color: red;
+    }
+    40%{
+        font-color: greenyellow;
+    }
+    60%{
+        font-color: white;
+    }
+    80%{
+        font-color:aqua;
+    }
+    100%{
+        font-color: yellow;
+    }
+}
+.tab1{
+    background-image: url("head.jpg");
+    width: 96%;
+}
+.tab2{
+    background-color:white;
+    width:96%;
+    height:50%;
+}
+.tab3{
+   border-radius: 1000px;
+    width: 65%;
+}
+.tab4{
+    
+    width: 65%;
+}
+.tab5{
+    
+    width: 60%;
+}
+.tab6{
+    background-image: url("111.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 65%;
+}
+.tab7{
+   width:65%;
+    
+}
+.tab8{
+    width:65%;
+
+}
+
+
+.select1{
+    background-color: brown;
+    color: white;
+}
+.select2{
+    background-color: brown;
+    color: white;
+}
+.select3{
+    background-color: brown;
+    color: white;
+}
+.select4{
+    background-color: brown;
+    color: white;
+}
+.select5{
+    background-color: brown;
+    color: white;
+}
+.select6{
+    background-color: brown;
+    color: white;
+}
+.select7{
+    background-color: brown;
+    color: white;
+}
+.td1{
+    background-image: url("1112.jpeg");
+    background-size: cover;
+    color: white;
+}
+.td2{
+    background-image: url("1112.jpeg");
+    background-size: cover;
+    color: white;
+}
+.td3{
+    background-image: url("1112.jpeg");
+   background-size: cover;
+   color: white;
+}
+.td4{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td5{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td6{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td7{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td8{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td9{
+    background-image: url("1112.jpeg");
+    color:white;
+    
+}
+.td10{
+    background-image: url("brown2.png");
+    color:white;
+    
+}
+.td11{
+    background-image: url("brown2.png");
+    color:white;
+   
+}
+.td12{
+    background-image: url("brown2.png");
+    color:white;
+   
+}
+.td13{
+    background-size: cover;
+    
+   
+}
+.td14{
+   
+   background-size: cover;
+}
+.td15{
+   background-size: cover;
+   
+}
+.td16{
+    background-color:rgb(253, 212, 198);
+}
+.td17{
+    background-color:rgb(253, 212, 198);
+}
+.td18{
+    background-color:rgb(253, 212, 198);
+}
+.td19{
+   
+    background-image: url("brown2.png");
+    color:white;
+   
+}
+.td20{
+    background-image: url("brown2.png");
+    color:white;
+   
+}
+.td21{
+    background-image: url("brown2.png");
+    color:white;
+   
+}
+.td25{
+    background-color:rgb(253, 212, 198);
+}
+.td26{
+    background-color:rgb(253, 212, 198);
+}
+.td27{
+    background-color:rgb(253, 212, 198);
+}
+.daysche{
+    
+    background-color: rgb(253, 220, 7);
+}
+.u1{
+    color: white;
+}
+.other{
+    font-style: verdana;
+}
+.copy{
+    color: white;
+}
+.trcolor{
+    background-color: rgb(255, 86, 7);
+}
+.trcolor2{
+    background-color:rgb(253, 212, 198);
+}
+.trcolor1{
+    
+    background-color:white;
+}
+.bg1{
+    background-image: url("kkkk.jpeg");
+    color: white;
+}
